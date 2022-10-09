@@ -1,2 +1,2 @@
-# PandaGato.github.io
+# PandaGato
 PAndaGato
